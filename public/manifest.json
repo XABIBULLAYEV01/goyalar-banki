@@ -1,0 +1,25 @@
+{
+  "name": "G‘oyalar Banki — Admin Paneli",
+  "short_name": "GB Admin",
+  "description": "G‘oyalar Banki rasmiy koordinator va super admin boshqaruv ilovasi",
+  "start_url": "/#admin",
+  "display": "standalone",
+  "background_color": "#080d19",
+  "theme_color": "#080d19",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/static/assets/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/static/assets/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "productivity", "management"]
+}
